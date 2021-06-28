@@ -15,9 +15,9 @@
 [![alt text][2.2]][2]
 [![alt text][3.1]][3]
 
-[1.1]: ./svg/facebook.svg (facebook)
-[2.1]: ./svg/linkedin.svg (linkedin)
-[3.1]: ./svg/email.svg (email)
+[1.1]: Facebook
+[2.1]: Linkedin
+[3.1]: Gmail
 
 [1]: hhttps://www.facebook.com/ashwani.kamal.3979
 [2]: https://www.linkedin.com/in/ashwani-kumar-kamal-774460212/
