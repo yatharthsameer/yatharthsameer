@@ -1,5 +1,7 @@
 ## Hello there 👋
-(But where's the `higher ground` XD)
+(But where's the `higher ground` XD).  
+---
+
 <img align="right" height = "150" width = "150" src="./svg/giphy.webp">
 #### I'm Ashwani and currently I'm a first year undergraduate CSE student at IIT Kharagpur.
 
@@ -19,7 +21,7 @@
 ### 🤝 Connect with me @
 * Just got started with [Linkedin](https://www.linkedin.com/in/ashwani-kumar-kamal-774460212/)
 * Let's be friends at [Facebook](https://www.facebook.com/ashwani.kamal.3979/)
-* Drop me an email at [here](mailto:rajivkamal.im421@gmail.com)
+* Drop me an email [here](mailto:rajivkamal.im421@gmail.com)
 <img align = "right" height = "150" width = "150" src="https://media.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.gif">   
 ---
 ❇️ Vamos Muchachoes
