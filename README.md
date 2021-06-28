@@ -1,6 +1,6 @@
 ## Hello there 👋
 (But where's the `higher ground` XD)
-<img align="right" height = "150" width = "150" src="https://media.giphy.com/media/3oEjHYdoXUnkbUN8QM/giphy.gif">
+<img align="right" height = "150" width = "150" src="./svg/giphy.webp">
 #### I'm Ashwani and currently I'm a first year undergraduate CSE student at IIT Kharagpur.
 
 > This gif on the right is probably how I'm feeling right now :\
