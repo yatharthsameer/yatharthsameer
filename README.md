@@ -7,7 +7,7 @@
 > This gif on the right is probably how I'm feeling right now (o3o)
 ---
 ### 🥔 About Me
-* Currently learning: JavaScript
+* Currently learning: More like, getting aquainted with data analytics and deep learning
 * Have a beginner - intermediate taste of working in web dev
 * Open to collaborating in fun projects
 * Making my way through and learning stuff along the way UwU
