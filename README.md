@@ -13,6 +13,10 @@
 * Making my way through and learning stuff along the way UwU   
 ---
 <!--START_SECTION:waka-->
+```text
+C++    8 hrs 54 mins   ████████████████████████▓   98.88 % 
+Text   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
 <!--END_SECTION:waka-->
 
 ---
