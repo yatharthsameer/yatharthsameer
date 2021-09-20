@@ -10,7 +10,10 @@
 * Currently learning: More like, getting aquainted with data analytics and deep learning
 * Have a beginner - intermediate taste of working in web dev
 * Open to collaborating in fun projects
-* Making my way through and learning stuff along the way UwU
+* Making my way through and learning stuff along the way UwU   
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 ### 💻 Tech Stack
