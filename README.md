@@ -2,7 +2,7 @@
 (But where's the `higher ground` XD)
 <br>
 <img align="right" height = "100" width = "100" src="./svg/giphy.webp">   
-#### I'm Ashwani and currently I'm a first year undergraduate CSE student at IIT Kharagpur.
+#### I'm Ashwani and currently I'm a second year undergraduate CSE student at IIT Kharagpur.
 ---
 > This gif on the right is probably how I'm feeling right now (o3o)
 ---
