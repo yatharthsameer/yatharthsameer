@@ -14,11 +14,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2021 - 11 October, 2021
+Week: 06 October, 2021 - 12 October, 2021
 
-C++      5 hrs 57 mins   █████████████████████▒░░░   85.49 % 
-Python   55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+C++      5 hrs 57 mins   ████████████████████▒░░░░   81.23 % 
+Python   1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+JSON     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
 
