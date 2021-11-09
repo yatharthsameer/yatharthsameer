@@ -14,13 +14,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
-Python       6 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
-C++          4 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.77 % 
-TOML         2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-JavaScript   1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Markdown     1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Python       6 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.47 % 
+C++          4 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.63 % 
+JavaScript   1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+CMake        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
 
