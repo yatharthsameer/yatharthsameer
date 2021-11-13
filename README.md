@@ -14,13 +14,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
-C++          11 hrs 58 mins  ██████████████████░░░░░░░   72.48 % 
-Markdown     2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-JavaScript   1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+C++          11 hrs 58 mins  ██████████████████░░░░░░░   71.56 % 
+Markdown     2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+JavaScript   1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+HTML         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 <!--END_SECTION:waka-->
 
