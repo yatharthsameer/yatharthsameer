@@ -14,13 +14,10 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
-HTML         25 mins         █████████▓░░░░░░░░░░░░░░░   38.30 % 
-CSS          17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-JavaScript   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python   9 mins          ███████████████████▒░░░░░   77.00 % 
+Bash     2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
 ```
 <!--END_SECTION:waka-->
 
