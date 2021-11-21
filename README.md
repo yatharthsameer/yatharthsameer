@@ -14,10 +14,10 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-Python   9 mins          ███████████████████▒░░░░░   77.00 % 
-Bash     2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
+Python   9 mins          ███████████████████░░░░░░   75.94 % 
+Bash     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
 ```
 <!--END_SECTION:waka-->
 
