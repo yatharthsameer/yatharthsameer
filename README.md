@@ -14,10 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
-
-Python   46 mins         ███████████████████████░░   91.51 % 
-XML      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
