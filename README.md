@@ -14,7 +14,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 November, 2021 - 05 December, 2021
+
+JavaScript   6 hrs 1 min     ███████████████████▒░░░░░   77.38 % 
+JSON         48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 
