@@ -14,13 +14,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
-C++          5 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
-Python       2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-JavaScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-SCSS         1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+C++          6 hrs 39 mins   ████████████▓░░░░░░░░░░░░   50.98 % 
+Python       2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
+SCSS         1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+JavaScript   1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 <!--END_SECTION:waka-->
 
