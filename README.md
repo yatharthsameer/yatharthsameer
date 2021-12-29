@@ -14,10 +14,10 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-C++      2 hrs 22 mins   █████████████████░░░░░░░░   67.89 % 
-Python   1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   31.99 % 
+C++      2 hrs 4 mins    ████████████████▒░░░░░░░░   64.92 % 
+Python   1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   35.08 % 
 ```
 <!--END_SECTION:waka-->
 
