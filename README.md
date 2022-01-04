@@ -14,7 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 JavaScript   2 hrs 7 mins    ████████████████████░░░░░   79.43 % 
 TOML         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
