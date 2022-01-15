@@ -14,13 +14,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-Java         8 hrs 25 mins   ██████████████░░░░░░░░░░░   56.45 % 
-C++          5 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   37.55 % 
-JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-TOML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Python       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Java         8 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.85 % 
+C++          5 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 % 
+JavaScript   1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 ```
 <!--END_SECTION:waka-->
 
