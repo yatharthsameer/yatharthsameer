@@ -14,12 +14,12 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-C++          10 hrs 13 mins  ███████████▒░░░░░░░░░░░░░   45.07 % 
-Java         9 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   43.07 % 
-JavaScript   1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+C++          11 hrs 24 mins  ████████████░░░░░░░░░░░░░   47.48 % 
+Java         9 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   40.67 % 
+JavaScript   1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Other        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 <!--END_SECTION:waka-->
 
