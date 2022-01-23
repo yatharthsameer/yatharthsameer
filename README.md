@@ -14,7 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 C++          16 hrs 33 mins  ██████████████▒░░░░░░░░░░   56.88 % 
 Java         6 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
