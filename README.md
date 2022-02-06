@@ -14,7 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 Python     7 hrs 30 mins   ████████████████▒░░░░░░░░   64.72 % 
 C++        3 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
