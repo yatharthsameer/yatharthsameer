@@ -14,7 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 C++      3 hrs 32 mins   █████████████████░░░░░░░░   68.28 % 
 Bash     46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
