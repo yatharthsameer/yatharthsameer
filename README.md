@@ -36,3 +36,5 @@ Java       8 mins          █░░░░░░░░░░░░░░░░�
 <img align = "right" height = "100" width = "100" src="https://media.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.gif">   
 
 ❇️ Vamos Muchachoes
+
+Counter for something something: ![](https://hit.yhype.me/github/profile?user_id=75236490)
