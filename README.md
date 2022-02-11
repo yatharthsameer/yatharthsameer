@@ -35,5 +35,5 @@ Python     10 mins         ███▓░░░░░░░░░░░░░�
 <img align = "right" height = "100" width = "100" src="https://media.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.gif">   
 
 ❇️ Vamos Muchachoes
-
+[![wakatime](https://wakatime.com/badge/user/e0871c9e-5a07-4036-9354-41563cad914d.svg)](https://wakatime.com/@e0871c9e-5a07-4036-9354-41563cad914d)  
 Counter for something something: ![](https://hit.yhype.me/github/profile?user_id=75236490)
