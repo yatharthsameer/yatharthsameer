@@ -14,15 +14,15 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 13 hrs 15 mins
+Total: 14 hrs 33 mins
 
-sh           7 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.89 % 
-JavaScript   2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-C++          1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Python       59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+sh           7 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.04 % 
+JavaScript   2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Python       2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+C++          1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 <!--END_SECTION:waka-->
 
