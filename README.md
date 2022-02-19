@@ -14,15 +14,15 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 14 hrs 33 mins
+Total: 14 hrs 37 mins
 
-sh           7 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.04 % 
-JavaScript   2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Python       2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-C++          1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+sh                    7 hrs 9 mins    ████████████▒░░░░░░░░░░░░   48.80 % 
+Python                4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 % 
+C++                   2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Markdown              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Debian Control file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
