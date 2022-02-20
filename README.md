@@ -14,9 +14,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 14 hrs 37 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 sh                    7 hrs 9 mins    ████████████▒░░░░░░░░░░░░   48.80 % 
 Python                4 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 % 
