@@ -14,13 +14,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-Python                4 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.87 % 
-C++                   2 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-sh                    2 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.28 % 
-Debian Control file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Makefile              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python       3 hrs 41 mins   ███████████████████▓░░░░░   78.80 % 
+C++          49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
+sh           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
