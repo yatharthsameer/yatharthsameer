@@ -13,15 +13,18 @@
 * Making my way through and learning stuff along the way UwU   
 ---
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-JavaScript   1 hr 13 mins    █████████░░░░░░░░░░░░░░░░   36.04 % 
-C++          55 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.26 % 
-sh           33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Python       32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python       1 hr 35 mins    ████████▓░░░░░░░░░░░░░░░░   34.49 %
+JavaScript   1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+C++          55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+sh           33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TOML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
