@@ -32,9 +32,9 @@ Other         39 mins         ▓░░░░░░░░░░░░░░░�
 
 ---
 ### 🤝 Connect with me @
-* Just got started with [Linkedin](https://www.linkedin.com/in/ashwani-kumar-kamal-774460212/)
-* Let's be friends at [Facebook](https://www.facebook.com/ashwani.kamal.3979/)
-* Drop me an email [here](mailto:rajivkamal.im421@gmail.com)   
+* Just got started with [Linkedin](https://www.linkedin.com/in/ashwani-k-kamal/)
+* Let's be friends at [Facebook](https://www.facebook.com/ashwani.k.kamal/)
+* Drop me an email [here](mailto:ashwanikamal.im421@gmail.com)   
 ---
 <img align = "right" height = "100" width = "100" src="https://media.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.gif">   
 
