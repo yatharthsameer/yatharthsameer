@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 April 2022 - To: 17 April 2022
+
+C++   6 mins          █████████████████░░░░░░░░   67.52 %
+sh    3 mins          ████████░░░░░░░░░░░░░░░░░   32.48 %
 ```
 
 <!--END_SECTION:waka-->
