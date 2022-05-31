@@ -8,7 +8,7 @@
 - Currently struggling with brushing up data structures and algorithms
 - Have an intermediate taste of working in web dev
 - Open to collaborating in fun projects
-- Trying to organize my mess [here](sneaky-potato.github.io/) 🚀
+- Trying to organize my mess [here](https://sneaky-potato.github.io/) 🚀
 
 ---
 
