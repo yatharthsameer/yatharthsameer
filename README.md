@@ -1,3 +1,5 @@
+![trip](./assets/trip.jpg)
+
 # Hello there 👋
 
 (But where's the `higher ground` XD)
