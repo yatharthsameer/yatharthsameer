@@ -21,14 +21,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 June 2022 - To: 18 June 2022
+From: 12 June 2022 - To: 19 June 2022
 
-JavaScript   2 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   42.17 %
-C++          2 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   39.19 %
-Markdown     56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-TOML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   2 hrs 1 min     ███████████▓░░░░░░░░░░░░░   46.50 %
+C++          1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.47 %
+Markdown     56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+TOML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
