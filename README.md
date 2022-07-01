@@ -21,7 +21,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 June 2022 - To: 30 June 2022
+
+C++   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
