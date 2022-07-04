@@ -21,14 +21,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
+From: 26 June 2022 - To: 03 July 2022
 
-C++           3 hrs 4 mins    █████████████████▓░░░░░░░   70.32 %
-Python        54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-Text          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-TOML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Bash          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++           4 hrs 29 mins   ███████████████▓░░░░░░░░░   62.56 %
+Python        1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Text          1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TOML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Bash          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
