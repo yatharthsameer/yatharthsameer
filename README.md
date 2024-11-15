@@ -37,13 +37,7 @@ C     1 min           ▒░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🤝 Stalk badges
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-sameer-3bb60a1b9/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_sameer_bro/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashwani.k.kamal/)
-
----
 ## ❇️ Vamos Muchachoes  
 
 <img align = "right" height = "130" width = "130" src="https://media.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.gif">
