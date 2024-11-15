@@ -6,11 +6,11 @@
 
 ## 🥔 About Me
 
-- Undergraduate student at IIT Kharagpur
+- Undergraduate student at IIT 
 - Currently struggling with brushing up data structures and algorithms
 - Have an intermediate taste of working in web dev
 - Open to collaborating in fun projects
-- Trying to organize my mess [here](https://sneaky-potato.github.io/) 🚀
+
 
 ---
 
