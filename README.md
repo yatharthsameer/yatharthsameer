@@ -2,13 +2,9 @@
 
 # Hello there 👋
 
-(But where's the `higher ground` XD)
-
 ## 🥔 About Me
 
-- Undergraduate student at IIT 
-- Currently struggling with brushing up data structures and algorithms
-- Have an intermediate taste of working in web dev
+- CSE Graduate from IIT Kharagpur (B.Tech + M.Tech)
 - Open to collaborating in fun projects
 
 
